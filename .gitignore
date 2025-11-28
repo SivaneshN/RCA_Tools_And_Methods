@@ -216,13 +216,13 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data
-data/*.csv
-data/*.xlsx
-data/*.xls
-data/*.parquet
-data/*.json
-!data/README.md
+# # Data
+# data/*.csv
+# data/*.xlsx
+# data/*.xls
+# data/*.parquet
+# data/*.json
+# !data/README.md
 
 # OS / editor files
 .DS_Store

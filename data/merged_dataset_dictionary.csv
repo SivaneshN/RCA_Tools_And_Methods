@@ -1,0 +1,8 @@
+column,dtype,non_null,unique
+country_name,object,1232,133
+country_code,object,1232,133
+year,int64,1232,22
+suicide_data,float64,1232,888
+homicide_data,float64,1232,780
+intentional_death,float64,1232,1223
+gini_index,float64,1232,42
