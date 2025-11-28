@@ -1,6 +1,0 @@
-column,dtype,non_null,unique
-country_name,string,4290,195
-country_code,string,4290,195
-year,int64,4290,22
-suicide_data,float64,4290,1936
-zscore,float64,4290,1936
