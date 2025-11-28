@@ -1,0 +1,7 @@
+column,dtype,non_null,unique
+country_name,string,4397,258
+country_code,string,4397,258
+year,int64,4397,35
+homicide_data,float64,4220,1641
+world_regions,string,257,6
+zscore,float64,4220,1641
