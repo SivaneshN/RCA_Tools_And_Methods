@@ -1,7 +1,0 @@
-column,dtype,non_null,unique
-country_name,string,2458,257
-country_code,string,2458,257
-year,int64,2458,62
-gini_index,float64,2252,47
-world_regions,object,257,6
-zscore,float64,2252,47

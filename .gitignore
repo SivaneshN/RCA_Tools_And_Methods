@@ -205,26 +205,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*.so
-
-# Jupyter
-.ipynb_checkpoints/
-
-# # Data
-# data/*.csv
-# data/*.xlsx
-# data/*.xls
-# data/*.parquet
-# data/*.json
-# !data/README.md
-
-# OS / editor files
-.DS_Store
-Thumbs.db
-*.swp
