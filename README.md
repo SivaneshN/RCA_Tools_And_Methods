@@ -4,7 +4,14 @@ Capstone Project for Tools &amp; Methods
 # Income Inequality, Homicide & Suicide: A Multi-Source Data Integration Project
 
 Capstone project for the course **Tools and Methods: Data Analysis**  
-Team: *[Add Team Name / Members]*  
+
+Team: *RCA_Tools_And_Methods*
+
+Members:
+- Manaf Abbas​ 
+- Mingyang Du​ 
+- Sivanesh Nadar​ 
+- Juilee Patil
 
 ---
 
